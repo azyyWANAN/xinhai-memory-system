@@ -1,4 +1,4 @@
-# 心潮记忆系统（xinchao-memory-system）
+# 心海记忆系统（xinhai-memory-system）
 
 > 给 AI 伴侣搭一套完整的记忆系统：记忆、情绪、自省、梦——一次讲清思路，附管道小工具。**小白也能看懂。**
 
